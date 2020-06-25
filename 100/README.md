@@ -2,10 +2,10 @@
 # 100 Project Directory Structure - General
 
 ```bash
-[10-digit-numeric-code]_[PROJECT NAME WITHOUT SPACES]_[YEAR IN WHICH THE PROJECT TAKES PLACE]
+[10-DIGIT]_[PROJECTNAME]_[YEAR]
 ├── 1 Creation
 │   ├── Screenplay
-│   │   ├── [10-digit_ProjectName_Year].fdr
+│   │   ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].fdr
 │   └── Story
 │   │   ├── **/*.css
 ├── 2 Design
