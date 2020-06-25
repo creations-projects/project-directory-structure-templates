@@ -4,14 +4,10 @@
 ```bash
 [10-digit-numeric-code]_[PROJECT NAME WITHOUT SPACES]_[YEAR IN WHICH THE PROJECT TAKES PLACE]
 ├── 1 Creation
-│   ├── css
+│   ├── Screenplay
+│   │   ├── [10-digit_ProjectName_Year].fdr
+│   └── Story
 │   │   ├── **/*.css
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
 ├── 2 Design
 │   ├── css
 │   │   ├── **/*.css
