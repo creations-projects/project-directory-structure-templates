@@ -38,20 +38,56 @@
 │   │   └── Wardrobe
 │   │       └── *empty
 │   ├── Forms
+│   │   ├── Call Sheets
+│   │   |   └── *empty
+│   │   └── Release Forms
+│   │       └── *empty
 │   ├── Locations
+│   │       └── *empty
 │   ├── Schedule
+│   │       └── *empty
 │   ├── Screenplay
-│   │   ├── **/*.js
+│   │   └── [10-DIGIT]_[PROJECTNAME]_[YEAR].fdr
 │   └── Support
+│           └── *empty
 ├── 4 Edit
-│   ├── css
-│   │   ├── **/*.css
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
+│   ├── Audio-Music
+│   |   └── example.mp3
+│   ├── Audio-SFP
+│   |   └── *empty
+│   ├── Audio-SFX
+│   |   └── *empty
+│   ├── Audio-Soundbooth
+│   │   ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].aif
+│   |   └── [10-DIGIT]_[PROJECTNAME]_[YEAR].asnd
+│   ├── Audio-STP
+│   |   └── *empty
+│   ├── Audio-VO
+│   |   └── *empty
+│   ├── Compressor
+│   ├── DVD-Builds
+│   ├── DVD-Disk Images
+│   ├── DVD-Encore
+│   ├── DVD-MPEG
+│   ├── DVD-Toast
+│   ├── FCP-Exports
+│   ├── FCP-Project Backups
+│   ├── FCP-Project Files
+│   ├── Graphics-AfterEffects
+│   ├── Graphics-AfterEffects Renders
+│   ├── Graphics-CharacterCreator
+│   ├── Graphics-Cinema4D
+│   ├── Graphics-iClone
+│   ├── Graphics-Illustrator
+│   ├── Graphics-LiveType
+│   ├── Graphics-Maya
+│   ├── Graphics-Motion
+│   ├── Graphics-Photoshop
+│   ├── Graphics-QT
+│   ├── Labels
+│   ├── Logs
+│   ├── Scripts
+│   └── Slates
 └── 5 Show
     ├── Disc
     │   └── *empty
