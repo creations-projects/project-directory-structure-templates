@@ -43,13 +43,13 @@
 │   │   └── Release Forms
 │   │       └── *empty
 │   ├── Locations
-│   │       └── *empty
+│   │   └── *empty
 │   ├── Schedule
-│   │       └── *empty
+│   │   └── *empty
 │   ├── Screenplay
 │   │   └── [10-DIGIT]_[PROJECTNAME]_[YEAR].fdr
 │   └── Support
-│           └── *empty
+│       └── *empty
 ├── 4 Edit
 │   ├── Audio-Music
 │   │   └── example.mp3
@@ -65,6 +65,12 @@
 │   ├── Audio-VO
 │   │   └── *empty
 │   ├── Compressor
+│   │   ├── Flash
+│   │   │   └── Flash Settings
+│   │   │        └── *empty
+│   │   ├── H.264
+│   │   ├── MPEG1
+│   │   └── WindowsMedia
 │   ├── DVD-Builds
 │   ├── DVD-Disk Images
 │   ├── DVD-Encore
