@@ -7,16 +7,14 @@
 │   ├── Screenplay
 │   │   ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].fdr
 │   └── Story
-│   │   ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].rtf
+│       ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].rtf
 ├── 2 Design
-│   ├── css
+│   ├── Characters
 │   │   ├── **/*.css
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
+│   ├── Environments
+│   │   ├── **/*.css
+│   └── Storyboards
+│       ├── **/*.css
 ├── 3 Record
 │   ├── css
 │   │   ├── **/*.css
