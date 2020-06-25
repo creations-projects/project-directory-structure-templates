@@ -5,16 +5,16 @@
 [10-DIGIT]_[PROJECTNAME]_[YEAR]
 ├── 1 Creation
 │   ├── Screenplay
-│   │   ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].fdr
+│   │   └── [10-DIGIT]_[PROJECTNAME]_[YEAR].fdr
 │   └── Story
-│       ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].rtf
+│       └── [10-DIGIT]_[PROJECTNAME]_[YEAR].rtf
 ├── 2 Design
 │   ├── Characters
-│   │   ├── **/*.css
+│   │   └── **/*.css
 │   ├── Environments
-│   │   ├── **/*.css
+│   │   └── **/*.css
 │   └── Storyboards
-│       ├── **/*.css
+│       └── **/*.css
 ├── 3 Record
 │   ├── css
 │   │   ├── **/*.css
