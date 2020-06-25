@@ -17,8 +17,26 @@
 │       └── *empty
 ├── 3 Record
 │   ├── Cast
-│   │   ├── *empty
+│   │   └── *empty
 │   ├── Crew
+│   │   ├── Art
+│   │   |   └── *empty
+│   │   ├── Ass Director
+│   │   |   └── *empty
+│   │   ├── Director
+│   │   |   └── *empty
+│   │   ├── DoP
+│   │   |   └── *empty
+│   │   ├── Lights
+│   │   |   └── *empty
+│   │   ├── MakeUp
+│   │   |   └── *empty
+│   │   ├── Producer
+│   │   |   └── *empty
+│   │   ├── Sound
+│   │   |   └── *empty
+│   │   └── Wardrobe
+│   │       └── *empty
 │   ├── Forms
 │   ├── Locations
 │   ├── Schedule
