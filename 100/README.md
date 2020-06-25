@@ -72,17 +72,49 @@
 │   │   ├── MPEG1
 │   │   └── WindowsMedia
 │   ├── DVD-Builds
+│   │   └── *empty
 │   ├── DVD-Disk Images
+│   │   └── *empty
+│   ├── DVD-DVDStudioPro
+│   │   └── *empty
 │   ├── DVD-Encore
+│   │   ├── Menus
+│   │   │   └── *empty
+│   │   ├── Projects
+│   │   │   ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].ncor
+│   │   │   └── Template
+│   │   │        ├── Cache
+│   │   │        │    └── *mlf.cache.v10
+│   │   │        ├── ProjectMedia.acx
+│   │   │        ├── ProjectPrefs2.xml
+│   │   │        ├── ProjectWorkspace.xml
+│   │   │        └── Sources
+│   │   │             └── *empty
+│   │   ├── Slideshows
+│   │   │   └── *empty
+│   │   └── Timelines
+│   │       └── *empty
 │   ├── DVD-MPEG
+│   │       └── *empty
 │   ├── DVD-Toast
+│   │       └── *empty
 │   ├── FCP-Exports
+│   │       └── *empty
 │   ├── FCP-Project Backups
+│   │       └── *empty
 │   ├── FCP-Project Files
+│   │       └── [10-DIGIT]_[PROJECTNAME]_[YEAR]
 │   ├── Graphics-AfterEffects
+│   │       └── [10-DIGIT]_[PROJECTNAME]_[YEAR].aep
 │   ├── Graphics-AfterEffects Renders
+│   │       └── *empty
 │   ├── Graphics-CharacterCreator
+│   │       └── *empty
 │   ├── Graphics-Cinema4D
+│   │       ├── Renders
+│   │       │   └── *empty
+│   │       └── Tex
+│   │           └── *empty
 │   ├── Graphics-iClone
 │   ├── Graphics-Illustrator
 │   ├── Graphics-LiveType
