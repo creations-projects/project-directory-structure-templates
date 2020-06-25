@@ -37,6 +37,6 @@ See also [README.md](./400/README.md)
 
 ### 500 Record Folder
 
-\[ROOT FOLDER\]\5 Record
+\[ROOT FOLDER\]\5 Show
 
 See also [README.md](./500/README.md)
