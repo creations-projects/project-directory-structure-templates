@@ -3,7 +3,7 @@
 
 ```bash
 [10-digit-numeric-code]_[PROJECT NAME WITHOUT SPACES]_[YEAR IN WHICH THE PROJECT TAKES PLACE]
-├── app
+├── 1 Creation
 │   ├── css
 │   │   ├── **/*.css
 │   ├── favicon.ico
@@ -12,15 +12,42 @@
 │   ├── js
 │   │   ├── **/*.js
 │   └── partials/template
-├── dist (or build)
-├── node_modules
-├── bower_components (if using bower)
-├── test
-├── Gruntfile.js/gulpfile.js
-├── README.md
-├── package.json
-├── bower.json (if using bower)
-└── .gitignore
+├── 2 Design
+│   ├── css
+│   │   ├── **/*.css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.html
+│   ├── js
+│   │   ├── **/*.js
+│   └── partials/template
+├── 3 Record
+│   ├── css
+│   │   ├── **/*.css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.html
+│   ├── js
+│   │   ├── **/*.js
+│   └── partials/template
+├── 4 Edit
+│   ├── css
+│   │   ├── **/*.css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.html
+│   ├── js
+│   │   ├── **/*.js
+│   └── partials/template
+├── 5 Show
+│   ├── css
+│   │   ├── **/*.css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.html
+│   ├── js
+│   │   ├── **/*.js
+│   └── partials/template
 ```
 
 ## Root Folder
