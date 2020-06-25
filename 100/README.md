@@ -7,7 +7,7 @@
 │   ├── Screenplay
 │   │   ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].fdr
 │   └── Story
-│   │   ├── **/*.css
+│   │   ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].rtf
 ├── 2 Design
 │   ├── css
 │   │   ├── **/*.css
