@@ -20,26 +20,26 @@
 │   │   └── *empty
 │   ├── Crew
 │   │   ├── Art
-│   │   |   └── *empty
+│   │   │   └── *empty
 │   │   ├── Ass Director
-│   │   |   └── *empty
+│   │   │   └── *empty
 │   │   ├── Director
-│   │   |   └── *empty
+│   │   │   └── *empty
 │   │   ├── DoP
-│   │   |   └── *empty
+│   │   │   └── *empty
 │   │   ├── Lights
-│   │   |   └── *empty
+│   │   │   └── *empty
 │   │   ├── MakeUp
-│   │   |   └── *empty
+│   │   │   └── *empty
 │   │   ├── Producer
-│   │   |   └── *empty
+│   │   │   └── *empty
 │   │   ├── Sound
-│   │   |   └── *empty
+│   │   │   └── *empty
 │   │   └── Wardrobe
 │   │       └── *empty
 │   ├── Forms
 │   │   ├── Call Sheets
-│   │   |   └── *empty
+│   │   │   └── *empty
 │   │   └── Release Forms
 │   │       └── *empty
 │   ├── Locations
@@ -52,18 +52,18 @@
 │           └── *empty
 ├── 4 Edit
 │   ├── Audio-Music
-│   |   └── example.mp3
+│   │   └── example.mp3
 │   ├── Audio-SFP
-│   |   └── *empty
+│   │   └── *empty
 │   ├── Audio-SFX
-│   |   └── *empty
+│   │   └── *empty
 │   ├── Audio-Soundbooth
 │   │   ├── [10-DIGIT]_[PROJECTNAME]_[YEAR].aif
-│   |   └── [10-DIGIT]_[PROJECTNAME]_[YEAR].asnd
+│   │   └── [10-DIGIT]_[PROJECTNAME]_[YEAR].asnd
 │   ├── Audio-STP
-│   |   └── *empty
+│   │   └── *empty
 │   ├── Audio-VO
-│   |   └── *empty
+│   │   └── *empty
 │   ├── Compressor
 │   ├── DVD-Builds
 │   ├── DVD-Disk Images
