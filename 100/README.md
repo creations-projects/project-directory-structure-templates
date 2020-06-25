@@ -34,15 +34,15 @@
 │   ├── js
 │   │   ├── **/*.js
 │   └── partials/template
-├── 5 Show
-│   ├── css
-│   │   ├── **/*.css
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
+└── 5 Show
+    ├── Disc
+    │   └── *empty
+    ├── Mobile
+    │   └── *empty
+    ├── Screen
+    │   └── *empty
+    └── Web
+        └── *empty
 ```
 
 ## Root Folder
