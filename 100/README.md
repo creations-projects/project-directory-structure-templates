@@ -3,7 +3,7 @@
 
 ## Root Folder
 
-\[10-digit-numeric-code\]_\[PROJECT NAME WITHOUT SPACES\]_\[YEAR IN WHICH THE PROJECT TAKES PLACE\]
+\[10-digit-numeric-code\]\_\[PROJECT NAME WITHOUT SPACES\]\_\[YEAR IN WHICH THE PROJECT TAKES PLACE\]
 
 e.g.
 
