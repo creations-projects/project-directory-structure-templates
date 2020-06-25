@@ -95,34 +95,44 @@
 │   │   └── Timelines
 │   │       └── *empty
 │   ├── DVD-MPEG
-│   │       └── *empty
+│   │   └── *empty
 │   ├── DVD-Toast
-│   │       └── *empty
+│   │   └── *empty
 │   ├── FCP-Exports
-│   │       └── *empty
+│   │   └── *empty
 │   ├── FCP-Project Backups
-│   │       └── *empty
+│   │   └── *empty
 │   ├── FCP-Project Files
-│   │       └── [10-DIGIT]_[PROJECTNAME]_[YEAR]
+│   │   └── [10-DIGIT]_[PROJECTNAME]_[YEAR]
 │   ├── Graphics-AfterEffects
-│   │       └── [10-DIGIT]_[PROJECTNAME]_[YEAR].aep
+│   │   └── [10-DIGIT]_[PROJECTNAME]_[YEAR].aep
 │   ├── Graphics-AfterEffects Renders
-│   │       └── *empty
+│   │   └── *empty
 │   ├── Graphics-CharacterCreator
-│   │       └── *empty
+│   │   └── *empty
 │   ├── Graphics-Cinema4D
-│   │       ├── Renders
-│   │       │   └── *empty
-│   │       └── Tex
-│   │           └── *empty
+│   │   ├── Renders
+│   │   │   └── *empty
+│   │   └── Tex
+│   │       └── *empty
 │   ├── Graphics-iClone
+│   │   └── *empty
 │   ├── Graphics-Illustrator
+│   │   └── [10-DIGIT]_[PROJECTNAME]_[YEAR].ai
 │   ├── Graphics-LiveType
+│   │   └── *empty
 │   ├── Graphics-Maya
+│   │   └── projects
+│   │        └── scenes
+│   │             └── [10-DIGIT]_[PROJECTNAME]_[YEAR].mb
 │   ├── Graphics-Motion
+│   │   └── *empty
 │   ├── Graphics-Photoshop
+│   │   └── [10-DIGIT]_[PROJECTNAME]_[YEAR].psd
 │   ├── Graphics-QT
+│   │   └── *empty
 │   ├── Labels
+│   │   └── *empty
 │   ├── Logs
 │   ├── Scripts
 │   └── Slates
