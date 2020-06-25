@@ -2,6 +2,7 @@
 # 100 Project Directory Structure - General
 
 ```bash
+[10-digit-numeric-code]_[PROJECT NAME WITHOUT SPACES]_[YEAR IN WHICH THE PROJECT TAKES PLACE]
 ├── app
 │   ├── css
 │   │   ├── **/*.css
