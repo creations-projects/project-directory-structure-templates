@@ -10,20 +10,21 @@
 │       └── [10-DIGIT]_[PROJECTNAME]_[YEAR].rtf
 ├── 2 Design
 │   ├── Characters
-│   │   └── **/*.css
+│   │   └── *empty
 │   ├── Environments
-│   │   └── **/*.css
+│   │   └── *empty
 │   └── Storyboards
-│       └── **/*.css
+│       └── *empty
 ├── 3 Record
-│   ├── css
-│   │   ├── **/*.css
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   ├── js
+│   ├── Cast
+│   │   ├── *empty
+│   ├── Crew
+│   ├── Forms
+│   ├── Locations
+│   ├── Schedule
+│   ├── Screenplay
 │   │   ├── **/*.js
-│   └── partials/template
+│   └── Support
 ├── 4 Edit
 │   ├── css
 │   │   ├── **/*.css
